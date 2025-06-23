@@ -39,7 +39,7 @@ songs = {
     }
 ```
 
-##Technologies Used
+## Technologies Used
 -This project uses several Python libraries (all listed in requirements.txt), including:
 
 -pyttsx3 – Text-to-speech
@@ -76,7 +76,7 @@ python jarvis.py
 
 ---
 
-##Example Commands
+## Example Commands
 “Open YouTube”
 
 “Tell me a joke”
@@ -91,7 +91,7 @@ python jarvis.py
 
 ---
 
-##Notes
+## Notes
 Make sure your microphone is working and not muted.
 
 If you're using the OpenAI feature, add your API key in the code where needed.
@@ -102,13 +102,13 @@ You can expand this project by adding more voice commands, APIs, or a GUI.
 
 ---
 
-##Made By
+## Made By
 Udit Arora – 8th-grade coder learning Python and building cool things.
 Follow my journey: [github.com/Udit-Arora17]
 
 ---
 
-##Future Ideas
+## Future Ideas
 Add weather updates using API
 
 Play songs using voice
