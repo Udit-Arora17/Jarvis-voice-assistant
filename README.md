@@ -60,7 +60,7 @@ songs = {
 
 ## How to Run
 Clone this repo
-git clone https://github.com/yourusername/jarvis-voice-assistant.git
+git clone https://github.com/Udit-Arora17/jarvis-voice-assistant.git
 
 Go to the project folder
 cd jarvis-voice-assistant
@@ -104,7 +104,7 @@ You can expand this project by adding more voice commands, APIs, or a GUI.
 
 ## Made By
 Udit Arora – 8th-grade coder learning Python and building cool things.
-Follow my journey: [github.com/Udit-Arora17]
+Follow my journey: Github - github.com/Udit-Arora17  Youtube- @SilentCoder49
 
 ---
 
