@@ -124,12 +124,12 @@ def commands(c):
         last_option(c)  
 
 speak("Jar is starting , say jar to activate jar.")  
+jarvis_active = False
 
 if __name__ == "__main__":
     while True:
         print("Jar is listening")
 
-        jarvis_active = False
 
         try:
             with sr.Microphone() as source:
